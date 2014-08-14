@@ -211,6 +211,14 @@ h1 {
 h1.noSubtitle{
 	margin-bottom:90px;
 }
+h2.noSubtitle{
+	margin-bottom:20px;
+	text-align: center;
+}
+
+a.noUnderline {
+	text-decoration: none;
+}
 
 
 .bigTitle, h1.bigTitle, h2.bigTitle, h3.bigTitle {
@@ -263,6 +271,24 @@ h2.subTitle{
 	font-style: normal;
 	padding:0;
 	margin-bottom:90px;
+	text-align:center;
+}
+h2.subTitle2{
+	font-size:24px;
+	line-height: 24px;
+	font-weight: 300;
+	font-style: normal;
+	padding:0;
+	margin-bottom:30px;
+	text-align:center;
+}
+p.subTitle{
+	font-size:18px;
+	line-height: 18px;
+	font-weight: 300;
+	font-style: normal;
+	padding:0;
+	margin-bottom:30px;
 	text-align:center;
 }
 h2.subTitle:after, h1.noSubtitle:after {
@@ -354,6 +380,17 @@ blockquote {
 	border:none;
 	text-align:left;
 }
+.blockquote2 {
+	font-size:60px;
+	line-height: 60px;
+	margin-bottom:0;
+	font-weight:300;
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+	padding:0;
+	border:none;
+	text-align:left;
+}
 blockquote p {
 	font-size: inherit;
 }
@@ -371,6 +408,9 @@ blockquote:after {
 	font-family: 'custom-icons';
 	margin-left:0.5em;
 }
+
+
+
 .quoteRow blockquote:before, .quoteRow blockquote:after {
 	content:none;
 }
@@ -907,8 +947,39 @@ header#project{padding:22px 0;}
 	display: block;
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: normal;
+}
+
+
+
+
+
+.projectLinks a{
+    display: inline-block;
+    text-decoration:none;
 
 }
+.projectLinks a:hover i{
+    -webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	-ms-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+}
+.projectLinks a span{
+	position: relative;
+	top: -30px;
+	font-size: 16px;
+	text-align: center;
+	width: 100%;
+	display: block;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: normal;
+}
+
+
+
+
+
 .mediaHover {
 	text-align:center;
 	overflow:hidden;

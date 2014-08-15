@@ -216,6 +216,11 @@ h2.noSubtitle{
 	text-align: center;
 }
 
+h2.noSubtitle2{
+	margin-bottom:0px;
+	text-align: center;
+}
+
 a.noUnderline {
 	text-decoration: none;
 }
@@ -360,7 +365,7 @@ a:link, a:visited {
 	font-family: 'Open Sans', sans-serif;
 }
 a:hover, a:active {
-	text-decoration:underline;
+	text-decoration:none;
 }
 ul.iconsList li a:hover {
 	text-decoration:none;

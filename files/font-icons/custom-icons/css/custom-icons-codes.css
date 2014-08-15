@@ -292,6 +292,8 @@
 .icon-dribbble:before { content: '\e816'; } /* '' */
 .icon-flickr:before { content: '\e820'; } /* '' */
 .icon-linkedin-1:before { content: '\e81c'; } /* '' */
+.icon-hammer:before { content: '\31'; } /* '1' */
+.icon-pinterest:before { content: '\e800'; } /* '' */
 .icon-rss-3:before { content: '\e81f'; } /* '' */
 .icon-youtube:before { content: '\e81e'; } /* '' */
 .icon-vimeo:before { content: '\e819'; } /* '' */

@@ -107,22 +107,22 @@ h2.works {
 	background-color:#43B6B1;
 }
 #home {
-	background-image:url('../images/numis_images/br_night.png');
+	background-image:url('../images/numis_images_2/br_night.png');
 }
 #paralaxSlice1 {
-	background-image: url('../images/numis_images/image1.jpg');/*second hz image*/
+	background-image: url('../images/numis_images_2/image1.jpg');/*second hz image*/
 }
 #paralaxSlice2 {
-	background-image: url('../images/numis_images/image1.jpg');
+	background-image: url('../images/numis_images_2/image1.jpg');
 }
 #paralaxSlice3 {
-	background-image: url('../images/numis_images/.jpg');
+	background-image: url('../images/numis_images_2/.jpg');
 }
 #paralaxSlice4 {
-	background-image: url('../images/numis_images/br_night.png');/*bottom hz image*/
+	background-image: url('../images/numis_images_2/br_night.png');/*bottom hz image*/
 }
 #paralaxSlice5 {
-	background-image:  url('../images/numis_images/background_light.png');/*top hz image*/
+	background-image:  url('../images/numis_images_2/background_light.png');/*top hz image*/
 }
 .paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i{
 	color:#fff;

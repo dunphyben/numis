@@ -672,7 +672,7 @@ body#fullScreen #mainHeader{display:none;}
 #mapWrapper{ height:350px; }
 
 #homeFullScreen {
-	background-image: url('../images/numis_images/br_night.png');
+	background-image: url('../images/numis_images_2/br_night.png');
 	/*background-image: url('../images/theme-pics/paralax-1.jpg');*/
 	height:100%;
 	display:table;

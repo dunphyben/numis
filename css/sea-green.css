@@ -1,6 +1,5 @@
 /*
     Document   : colors
-    Author     : Little Neko
     Description: template colors
 */
 
@@ -325,6 +324,16 @@ section#projectDescription {
 
 /* MISCELANIOUS
 ================================================== */
+#gifimage {
+	width: 550px;
+	height: auto;
+}
+
+#gifimage2 {
+	width: 585px;
+	height: auto;
+}
+
 .center-align-img {
 	margin-left: auto;
 	margin-right: auto;
